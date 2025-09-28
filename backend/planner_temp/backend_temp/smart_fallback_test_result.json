@@ -1,0 +1,109 @@
+{
+  "courses": [
+    {
+      "id": "course_ml",
+      "name": "机器学习基础 - Coursera",
+      "platform": "Coursera",
+      "difficulty": "中级",
+      "duration": "8周",
+      "url": "https://www.coursera.org/learn/machine-learning",
+      "description": "吴恩达教授的经典机器学习课程",
+      "target_skill": "Machine Learning",
+      "priority": "high"
+    },
+    {
+      "id": "course_python",
+      "name": "Python编程基础 - Codecademy",
+      "platform": "Codecademy",
+      "difficulty": "初级",
+      "duration": "3周",
+      "url": "https://www.codecademy.com/learn/learn-python-3",
+      "description": "从零开始学习Python编程",
+      "target_skill": "Python",
+      "priority": "high"
+    },
+    {
+      "id": "course_system_design",
+      "name": "系统设计面试准备 - Educative",
+      "platform": "Educative",
+      "difficulty": "高级",
+      "duration": "6周",
+      "url": "https://www.educative.io/courses/grokking-the-system-design-interview",
+      "description": "专门针对系统设计面试的课程",
+      "target_skill": "System Design",
+      "priority": "high"
+    }
+  ],
+  "projects": [
+    {
+      "id": "project_basic",
+      "name": "全栈Web应用开发",
+      "tech_stack": [
+        "React",
+        "Node.js",
+        "MongoDB"
+      ],
+      "difficulty": "中级",
+      "duration": "4-6周",
+      "description": "开发一个完整的Web应用，涵盖前后端开发",
+      "learning_objectives": [
+        "掌握全栈开发",
+        "学习数据库设计",
+        "理解API开发"
+      ],
+      "target_skills": [
+        "React",
+        "Node.js",
+        "MongoDB"
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "practice_coding",
+      "type": "编程练习",
+      "frequency": "每周3次",
+      "focus": "算法和数据结构",
+      "description": "在LeetCode上练习编程题，重点练习目标岗位相关的算法",
+      "target_skills": [
+        "算法",
+        "数据结构",
+        "编程"
+      ]
+    },
+    {
+      "id": "practice_interview",
+      "type": "模拟面试",
+      "frequency": "每周1次",
+      "focus": "技术面试和系统设计",
+      "description": "模拟真实面试环境，练习技术问题回答",
+      "target_skills": [
+        "面试技巧",
+        "技术表达",
+        "系统设计"
+      ]
+    }
+  ],
+  "learning_path": {
+    "short_term": [
+      "掌握基础编程技能",
+      "学习核心算法"
+    ],
+    "medium_term": [
+      "完成实战项目",
+      "提升系统设计能力"
+    ],
+    "long_term": [
+      "达到目标岗位要求",
+      "准备面试"
+    ]
+  },
+  "timeline": {
+    "estimated_weeks": 12,
+    "milestones": [
+      "第4周完成基础课程",
+      "第8周完成项目",
+      "第12周准备面试"
+    ]
+  }
+}

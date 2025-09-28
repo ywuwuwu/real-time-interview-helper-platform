@@ -1,0 +1,101 @@
+{
+  "courses": [
+    {
+      "id": "course_1",
+      "name": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
+      "platform": "Udemy",
+      "difficulty": "中级",
+      "duration": "40小时",
+      "url": "https://www.udemy.com/course/machinelearning/",
+      "description": "本课程将带您从基础到高级的机器学习概念，使用Python和R进行实践。",
+      "target_skill": "Machine Learning",
+      "priority": "high"
+    },
+    {
+      "id": "course_2",
+      "name": "System Design Primer",
+      "platform": "GitHub",
+      "difficulty": "中级",
+      "duration": "自学",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "description": "一个全面的系统设计学习资源，涵盖了从基础到复杂系统的设计原则。",
+      "target_skill": "System Design",
+      "priority": "high"
+    }
+  ],
+  "projects": [
+    {
+      "id": "project_1",
+      "name": "机器学习预测模型",
+      "tech_stack": [
+        "Python",
+        "Pandas",
+        "Scikit-learn"
+      ],
+      "difficulty": "中级",
+      "duration": "4周",
+      "description": "构建一个机器学习模型来预测房价，使用真实数据集进行训练和测试。",
+      "learning_objectives": [
+        "理解机器学习模型的构建过程",
+        "掌握数据预处理和特征工程"
+      ],
+      "target_skills": [
+        "Machine Learning",
+        "Python"
+      ]
+    },
+    {
+      "id": "project_2",
+      "name": "系统设计案例研究",
+      "tech_stack": [
+        "UML",
+        "AWS"
+      ],
+      "difficulty": "中级",
+      "duration": "3周",
+      "description": "设计一个可扩展的在线购物系统，考虑高可用性和负载均衡。",
+      "learning_objectives": [
+        "掌握系统设计的基本原则",
+        "能够设计高效的系统架构"
+      ],
+      "target_skills": [
+        "System Design"
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "practice_1",
+      "type": "模拟面试",
+      "frequency": "每周一次",
+      "focus": "系统设计和机器学习相关问题",
+      "description": "进行针对系统设计和机器学习的模拟面试，提升应对实际面试的能力。",
+      "target_skills": [
+        "System Design",
+        "Machine Learning"
+      ]
+    }
+  ],
+  "learning_path": {
+    "short_term": [
+      "完成机器学习课程",
+      "完成系统设计课程"
+    ],
+    "medium_term": [
+      "完成机器学习预测模型项目",
+      "完成系统设计案例研究项目"
+    ],
+    "long_term": [
+      "准备并参加相关岗位的面试",
+      "持续学习新技术和工具"
+    ]
+  },
+  "timeline": {
+    "estimated_weeks": 12,
+    "milestones": [
+      "完成所有课程",
+      "完成两个项目",
+      "进行至少三次模拟面试"
+    ]
+  }
+}

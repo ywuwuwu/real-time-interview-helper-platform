@@ -1,0 +1,183 @@
+{
+  "skill_match": 25.0,
+  "experience_match": 65.0,
+  "overall_match": 45.0,
+  "gaps": [
+    {
+      "skill": "React.js",
+      "importance": "medium",
+      "category": "frontend",
+      "status": "missing",
+      "priority": "medium"
+    },
+    {
+      "skill": "数据库设计和管理",
+      "importance": "medium",
+      "category": "database",
+      "status": "missing",
+      "priority": "medium"
+    },
+    {
+      "skill": "团队协作和沟通能力",
+      "importance": "medium",
+      "category": "soft_skills",
+      "status": "missing",
+      "priority": "medium"
+    }
+  ],
+  "strengths": [
+    {
+      "skill": "Python",
+      "importance": "high",
+      "category": "programming",
+      "status": "strong"
+    }
+  ],
+  "missing_skills": [
+    "React.js",
+    "数据库设计和管理",
+    "团队协作和沟通能力"
+  ],
+  "jd_requirements": {
+    "required_skills": [
+      {
+        "skill": "Python",
+        "importance": "high",
+        "category": "programming"
+      },
+      {
+        "skill": "React.js",
+        "importance": "medium",
+        "category": "frontend"
+      },
+      {
+        "skill": "数据库设计和管理",
+        "importance": "medium",
+        "category": "database"
+      },
+      {
+        "skill": "团队协作和沟通能力",
+        "importance": "medium",
+        "category": "soft_skills"
+      }
+    ],
+    "preferred_skills": [
+      {
+        "skill": "Docker",
+        "importance": "medium",
+        "category": "devops"
+      },
+      {
+        "skill": "AWS",
+        "importance": "medium",
+        "category": "devops"
+      },
+      {
+        "skill": "微服务架构",
+        "importance": "low",
+        "category": "architecture"
+      }
+    ],
+    "experience_requirements": [
+      {
+        "type": "技术经验",
+        "years": 3,
+        "description": "Python开发经验"
+      },
+      {
+        "type": "技术经验",
+        "years": 3,
+        "description": "前端开发经验"
+      },
+      {
+        "type": "技术经验",
+        "years": 1,
+        "description": "微服务架构经验"
+      }
+    ]
+  },
+  "detailed_analysis": {
+    "core_competencies": [
+      "Python",
+      "JavaScript"
+    ],
+    "main_gaps": [
+      "React.js",
+      "数据库设计和管理",
+      "团队协作和沟通能力"
+    ],
+    "short_term_goals": [
+      "提升React.js技能",
+      "参与团队协作项目"
+    ],
+    "medium_term_goals": [
+      "获得数据库设计和管理的相关培训",
+      "参与Docker和AWS的项目"
+    ],
+    "long_term_goals": [
+      "积累3年以上的全栈开发经验",
+      "掌握微服务架构"
+    ],
+    "risk_assessment": "用户目前的工作经验不足3年，且缺乏React.js和数据库管理技能，可能影响其在全栈开发工程师职位的竞争力。",
+    "market_positioning": "建议用户在前端开发和数据库管理方面进行培训，以提高其市场竞争力，并寻求相关项目经验以满足职位要求。"
+  },
+  "improvement_priorities": [
+    {
+      "skill": "React.js",
+      "priority_score": 4,
+      "estimated_time": "1-3个月",
+      "learning_path": [
+        "学习React.js框架基础",
+        "构建React.js项目",
+        "优化React.js性能"
+      ]
+    },
+    {
+      "skill": "数据库设计和管理",
+      "priority_score": 4,
+      "estimated_time": "1-3个月",
+      "learning_path": [
+        "学习数据库设计和管理基础",
+        "设计数据库架构",
+        "优化数据库设计和管理性能"
+      ]
+    },
+    {
+      "skill": "团队协作和沟通能力",
+      "priority_score": 4,
+      "estimated_time": "1-3个月",
+      "learning_path": [
+        "学习团队协作和沟通能力基础",
+        "实践团队协作和沟通能力项目",
+        "深入团队协作和沟通能力高级特性"
+      ]
+    }
+  ],
+  "timeline_estimate": {
+    "total_weeks": 12,
+    "high_priority_weeks": 0,
+    "medium_priority_weeks": 12,
+    "estimated_completion_date": "2025-10-29",
+    "milestones": [
+      {
+        "skill": "React.js",
+        "week": 4,
+        "description": "掌握React.js技能",
+        "priority": "medium"
+      },
+      {
+        "skill": "数据库设计和管理",
+        "week": 8,
+        "description": "掌握数据库设计和管理技能",
+        "priority": "medium"
+      },
+      {
+        "skill": "团队协作和沟通能力",
+        "week": 12,
+        "description": "掌握团队协作和沟通能力技能",
+        "priority": "medium"
+      }
+    ]
+  },
+  "confidence_score": 50.0
+}

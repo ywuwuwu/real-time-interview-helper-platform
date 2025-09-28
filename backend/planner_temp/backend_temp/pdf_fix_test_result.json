@@ -1,0 +1,393 @@
+{
+  "resume_content": "Position: Software Engineer, Machine Learning – Off-Search Sourcing and Relevance\nProfessional Summary\n- 4+ years of full SDLC experience: software development, design, implementation, testing, and operations\n- Expert in software development best practices: coding standards, code reviews, and source control management\n- Proven ability in system design and architecture for high-concurrency, distributed systems\n- Skilled in machine learning: data pipelines, feature engineering, model training, A/B testing, and deployment\n- Experienced in DevOps and operations: CI/CD, monitoring, troubleshooting, and production support\n\nCore Skills\n- Software Development\n- Machine Learning\n- Data Pipelines\n- Distributed Systems\n- System Design\n- Programming Languages\n- A/B Testing\n- Statistics\n- Information Retrieval\n\nProfessional Experience\nSenior Software Engineer | ABC Tech Co., Ltd.\nJuly 2022 – Present, Beijing\n- Led end-to-end software development, from architecture design through testing and operations\n- Established and enforced coding standards and code review processes, improving code quality by 30%\n- Managed Git-based source control workflows with branching strategies and pull request best practices\n- Architected a distributed system for low-latency ad serving handling 100M+ QPS with fault tolerance\n- Built real-time data pipelines (Kafka → Spark Streaming → HBase) for feature extraction and model inputs\n- Developed and deployed ML models in TensorFlow; performed A/B testing to validate improvements\n- Oversaw system monitoring and production incident management, ensuring 99.9% uptime\n\nSoftware Engineer | DEF Information Technology Ltd.\nJune 2019 – June 2022, Shanghai\n- Designed and implemented an offline ETL pipeline processing hundreds of billions of records using Spark and Hadoop\n- Automated testing workflows with pytest and Jenkins; reduced manual QA time by 50%\n- Participated in system design reviews to improve scalability and reliability\n- Collaborated on code reviews and maintained high code quality standards\n- Managed production operations and optimized CI/CD pipelines\n\nSelected Projects\nOff-Search Ad Relevance Engine\n- Role: Lead Architect & Developer\n- Tech & Practices: microservices, gRPC, Kafka, TensorFlow, automated testing, Kubernetes\n- Impact: 6% uplift in off-search CTR, 8% incremental revenue\n\nReal-Time CTR Prediction Pipeline\n- Role: Full-Stack Engineer\n- Tech & Practices: real-time streaming, pipeline orchestration, CI/CD, monitoring, A/B testing\n- Impact: Maintained <50ms p99 latency with 24/7 stability\n\nEducation\nBachelor of Science in Computer Science | Peking University\nSeptember 2015 – June 2019\n\nCertifications & Honors\n- AWS Certified Solutions Architect – Associate\n- TensorFlow Developer Certificate\n- Engineer of the Year – ABC Tech Co., Ltd. (2023)\n\nOpen Source & Community\n- GitHub: https://github.com/your-username\n- Contributions: Spark plugins, Feature Store reference implementation",
+  "parsed_resume": {
+    "skills": [
+      "Software Development",
+      "Machine Learning",
+      "Data Pipelines",
+      "Distributed Systems",
+      "System Design",
+      "Programming Languages",
+      "A/B Testing",
+      "Statistics",
+      "Information Retrieval",
+      "Kafka",
+      "Spark",
+      "Hadoop",
+      "TensorFlow",
+      "gRPC",
+      "Kubernetes",
+      "pytest",
+      "Jenkins"
+    ],
+    "experience_years": 4,
+    "education": "Bachelor of Science in Computer Science | Peking University",
+    "projects": [
+      "Off-Search Ad Relevance Engine",
+      "Real-Time CTR Prediction Pipeline"
+    ],
+    "languages": [
+      "中文",
+      "英文"
+    ],
+    "certifications": [
+      "AWS Certified Solutions Architect – Associate",
+      "TensorFlow Developer Certificate"
+    ]
+  },
+  "analysis_result": {
+    "skill_match": 0.0,
+    "experience_match": 80.0,
+    "overall_match": 40.0,
+    "gaps": [
+      {
+        "skill": "Python",
+        "importance": "high",
+        "category": "programming",
+        "status": "missing",
+        "priority": "high"
+      },
+      {
+        "skill": "机器学习算法",
+        "similar_skill": "tensorflow",
+        "similarity": 0.8,
+        "importance": "high",
+        "category": "machine_learning",
+        "status": "partial",
+        "priority": "medium"
+      },
+      {
+        "skill": "统计方法",
+        "similar_skill": "statistics",
+        "similarity": 0.8,
+        "importance": "high",
+        "category": "statistics",
+        "status": "partial",
+        "priority": "medium"
+      },
+      {
+        "skill": "分布式系统",
+        "similar_skill": "distributed",
+        "similarity": 0.8,
+        "importance": "medium",
+        "category": "system",
+        "status": "partial",
+        "priority": "low"
+      },
+      {
+        "skill": "大数据处理",
+        "similar_skill": "spark",
+        "similarity": 0.8,
+        "importance": "medium",
+        "category": "data_processing",
+        "status": "partial",
+        "priority": "low"
+      },
+      {
+        "skill": "A/B测试",
+        "importance": "medium",
+        "category": "testing",
+        "status": "missing",
+        "priority": "medium"
+      },
+      {
+        "skill": "实验设计",
+        "importance": "medium",
+        "category": "design",
+        "status": "missing",
+        "priority": "medium"
+      },
+      {
+        "skill": "编程规范",
+        "importance": "medium",
+        "category": "programming",
+        "status": "missing",
+        "priority": "medium"
+      },
+      {
+        "skill": "设计模式",
+        "importance": "medium",
+        "category": "design",
+        "status": "missing",
+        "priority": "medium"
+      }
+    ],
+    "strengths": [],
+    "missing_skills": [
+      "Python",
+      "A/B测试",
+      "实验设计",
+      "编程规范",
+      "设计模式"
+    ],
+    "jd_requirements": {
+      "required_skills": [
+        {
+          "skill": "Python",
+          "importance": "high",
+          "category": "programming"
+        },
+        {
+          "skill": "机器学习算法",
+          "importance": "high",
+          "category": "machine_learning"
+        },
+        {
+          "skill": "统计方法",
+          "importance": "high",
+          "category": "statistics"
+        },
+        {
+          "skill": "分布式系统",
+          "importance": "medium",
+          "category": "system"
+        },
+        {
+          "skill": "大数据处理",
+          "importance": "medium",
+          "category": "data_processing"
+        },
+        {
+          "skill": "A/B测试",
+          "importance": "medium",
+          "category": "testing"
+        },
+        {
+          "skill": "实验设计",
+          "importance": "medium",
+          "category": "design"
+        },
+        {
+          "skill": "编程规范",
+          "importance": "medium",
+          "category": "programming"
+        },
+        {
+          "skill": "设计模式",
+          "importance": "medium",
+          "category": "design"
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill": "自然语言处理",
+          "importance": "low",
+          "category": "machine_learning"
+        }
+      ],
+      "experience_requirements": [
+        {
+          "type": "技术经验",
+          "years": 3,
+          "description": "Python开发经验"
+        },
+        {
+          "type": "技术经验",
+          "years": 3,
+          "description": "机器学习经验"
+        }
+      ]
+    },
+    "detailed_analysis": {
+      "core_competencies": [
+        "Machine Learning",
+        "Data Analysis"
+      ],
+      "main_gaps": [
+        "Python",
+        "A/B测试",
+        "实验设计",
+        "编程规范",
+        "设计模式"
+      ],
+      "short_term_goals": [
+        "提升Python编程能力",
+        "学习A/B测试和实验设计"
+      ],
+      "medium_term_goals": [
+        "掌握机器学习算法和统计方法",
+        "熟悉编程规范和设计模式"
+      ],
+      "long_term_goals": [
+        "积累分布式系统和大数据处理经验",
+        "探索自然语言处理领域"
+      ],
+      "risk_assessment": "由于缺乏关键技能，可能影响职位申请和职业发展。",
+      "market_positioning": "建议专注于提升机器学习和数据处理能力，以增强在数据科学领域的竞争力。"
+    },
+    "improvement_priorities": [
+      {
+        "skill": "Python",
+        "priority_score": 5,
+        "estimated_time": "1-3个月",
+        "learning_path": [
+          "学习Python基础语法",
+          "完成Python小项目",
+          "参与Python开源项目"
+        ]
+      },
+      {
+        "skill": "机器学习算法",
+        "priority_score": 4,
+        "estimated_time": "2-4周",
+        "learning_path": [
+          "学习机器学习算法基础",
+          "实践机器学习算法项目",
+          "深入机器学习算法高级特性"
+        ]
+      },
+      {
+        "skill": "统计方法",
+        "priority_score": 4,
+        "estimated_time": "2-4周",
+        "learning_path": [
+          "学习统计方法基础",
+          "实践统计方法项目",
+          "深入统计方法高级特性"
+        ]
+      },
+      {
+        "skill": "A/B测试",
+        "priority_score": 4,
+        "estimated_time": "1-3个月",
+        "learning_path": [
+          "学习A/B测试基础",
+          "实践A/B测试项目",
+          "深入A/B测试高级特性"
+        ]
+      },
+      {
+        "skill": "实验设计",
+        "priority_score": 4,
+        "estimated_time": "1-3个月",
+        "learning_path": [
+          "学习实验设计基础",
+          "实践实验设计项目",
+          "深入实验设计高级特性"
+        ]
+      }
+    ],
+    "timeline_estimate": {
+      "total_weeks": 32,
+      "high_priority_weeks": 8,
+      "medium_priority_weeks": 24,
+      "estimated_completion_date": "2026-03-19",
+      "milestones": [
+        {
+          "skill": "Python",
+          "week": 8,
+          "description": "掌握Python技能",
+          "priority": "high"
+        },
+        {
+          "skill": "机器学习算法",
+          "week": 12,
+          "description": "掌握机器学习算法技能",
+          "priority": "medium"
+        },
+        {
+          "skill": "统计方法",
+          "week": 16,
+          "description": "掌握统计方法技能",
+          "priority": "medium"
+        },
+        {
+          "skill": "分布式系统",
+          "week": 20,
+          "description": "掌握分布式系统技能",
+          "priority": "low"
+        },
+        {
+          "skill": "大数据处理",
+          "week": 24,
+          "description": "掌握大数据处理技能",
+          "priority": "low"
+        },
+        {
+          "skill": "A/B测试",
+          "week": 28,
+          "description": "掌握A/B测试技能",
+          "priority": "medium"
+        },
+        {
+          "skill": "实验设计",
+          "week": 32,
+          "description": "掌握实验设计技能",
+          "priority": "medium"
+        },
+        {
+          "skill": "编程规范",
+          "week": 36,
+          "description": "掌握编程规范技能",
+          "priority": "medium"
+        },
+        {
+          "skill": "设计模式",
+          "week": 40,
+          "description": "掌握设计模式技能",
+          "priority": "medium"
+        }
+      ]
+    },
+    "confidence_score": 50.0
+  },
+  "detailed_analysis": {
+    "user_skills": [
+      "programming languages",
+      "machine learning",
+      "software development",
+      "distributed systems",
+      "grpc",
+      "tensorflow",
+      "kubernetes",
+      "pytest",
+      "jenkins",
+      "a/b testing",
+      "spark",
+      "hadoop",
+      "data pipelines",
+      "statistics",
+      "kafka",
+      "information retrieval",
+      "system design"
+    ],
+    "matched_skills": [],
+    "gap_skills": [
+      "a/b测试",
+      "统计方法",
+      "大数据处理",
+      "机器学习算法",
+      "python",
+      "编程规范",
+      "实验设计",
+      "分布式系统",
+      "设计模式"
+    ],
+    "extra_skills": [
+      "programming languages",
+      "machine learning",
+      "software development",
+      "distributed systems",
+      "grpc",
+      "tensorflow",
+      "pytest",
+      "kubernetes",
+      "jenkins",
+      "hadoop",
+      "a/b testing",
+      "spark",
+      "data pipelines",
+      "kafka",
+      "statistics",
+      "information retrieval",
+      "system design"
+    ],
+    "skill_summary": {
+      "total_user_skills": 17,
+      "matched_count": 0,
+      "missing_count": 9,
+      "extra_count": 17,
+      "match_rate": 0.0
+    }
+  }
+}

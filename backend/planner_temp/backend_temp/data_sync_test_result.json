@@ -1,0 +1,1134 @@
+{
+  "plan_request": {
+    "job_title": "数据科学家",
+    "job_description": "\n        我们正在寻找一位经验丰富的数据科学家，负责开发和维护我们的机器学习系统。\n        \n        职位要求：\n        - 3年以上Python开发经验\n        - 熟练掌握机器学习算法和统计方法\n        - 有分布式系统和大数据处理经验\n        - 熟悉A/B测试和实验设计\n        - 具备良好的编程规范和设计模式\n        - 有自然语言处理经验优先\n        \n        职责：\n        - 设计和开发机器学习模型\n        - 进行数据分析和统计建模\n        - 参与代码审查和技术讨论\n        - 与产品团队协作，理解需求并实现\n        ",
+    "target_company": "科技公司",
+    "experience_years": 2,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Statistics",
+      "SQL"
+    ],
+    "career_goals": "成为机器学习专家"
+  },
+  "initial_result": {
+    "id": "40c1eccf-2709-4729-ada4-53a264a96636",
+    "job_title": "数据科学家",
+    "skill_match_score": 11.1,
+    "experience_match_score": 55.0,
+    "gap_analysis": {
+      "skill_match": 11.1,
+      "experience_match": 55.0,
+      "overall_match": 33.1,
+      "gaps": [
+        {
+          "skill": "机器学习算法",
+          "similar_skill": "machine learning",
+          "similarity": 0.8,
+          "importance": "high",
+          "category": "machine_learning",
+          "status": "partial",
+          "priority": "medium"
+        },
+        {
+          "skill": "统计方法",
+          "similar_skill": "statistics",
+          "similarity": 0.8,
+          "importance": "high",
+          "category": "statistics",
+          "status": "partial",
+          "priority": "medium"
+        },
+        {
+          "skill": "分布式系统",
+          "importance": "medium",
+          "category": "system",
+          "status": "missing",
+          "priority": "medium"
+        },
+        {
+          "skill": "大数据处理",
+          "importance": "medium",
+          "category": "data_processing",
+          "status": "missing",
+          "priority": "medium"
+        },
+        {
+          "skill": "A/B测试",
+          "importance": "medium",
+          "category": "testing",
+          "status": "missing",
+          "priority": "medium"
+        },
+        {
+          "skill": "实验设计",
+          "importance": "medium",
+          "category": "design",
+          "status": "missing",
+          "priority": "medium"
+        },
+        {
+          "skill": "编程规范",
+          "importance": "medium",
+          "category": "programming",
+          "status": "missing",
+          "priority": "medium"
+        },
+        {
+          "skill": "设计模式",
+          "importance": "medium",
+          "category": "programming",
+          "status": "missing",
+          "priority": "medium"
+        }
+      ],
+      "strengths": [
+        {
+          "skill": "Python",
+          "importance": "high",
+          "category": "programming",
+          "status": "strong"
+        }
+      ],
+      "missing_skills": [
+        "分布式系统",
+        "大数据处理",
+        "A/B测试",
+        "实验设计",
+        "编程规范",
+        "设计模式"
+      ],
+      "jd_requirements": {
+        "required_skills": [
+          {
+            "skill": "Python",
+            "importance": "high",
+            "category": "programming"
+          },
+          {
+            "skill": "机器学习算法",
+            "importance": "high",
+            "category": "machine_learning"
+          },
+          {
+            "skill": "统计方法",
+            "importance": "high",
+            "category": "statistics"
+          },
+          {
+            "skill": "分布式系统",
+            "importance": "medium",
+            "category": "system"
+          },
+          {
+            "skill": "大数据处理",
+            "importance": "medium",
+            "category": "data_processing"
+          },
+          {
+            "skill": "A/B测试",
+            "importance": "medium",
+            "category": "testing"
+          },
+          {
+            "skill": "实验设计",
+            "importance": "medium",
+            "category": "design"
+          },
+          {
+            "skill": "编程规范",
+            "importance": "medium",
+            "category": "programming"
+          },
+          {
+            "skill": "设计模式",
+            "importance": "medium",
+            "category": "programming"
+          }
+        ],
+        "preferred_skills": [
+          {
+            "skill": "自然语言处理",
+            "importance": "medium",
+            "category": "natural_language_processing"
+          }
+        ],
+        "experience_requirements": [
+          {
+            "type": "技术经验",
+            "years": 3,
+            "description": "Python开发经验"
+          }
+        ]
+      },
+      "detailed_analysis": {
+        "core_competencies": [
+          "Python",
+          "Machine Learning"
+        ],
+        "main_gaps": [
+          "分布式系统",
+          "大数据处理",
+          "A/B测试",
+          "实验设计",
+          "编程规范",
+          "设计模式"
+        ],
+        "short_term_goals": [
+          "提升机器学习算法的理解和应用能力",
+          "学习分布式系统的基础知识"
+        ],
+        "medium_term_goals": [
+          "掌握大数据处理技术",
+          "参与A/B测试和实验设计的项目"
+        ],
+        "long_term_goals": [
+          "成为数据科学领域的专家",
+          "在机器学习和自然语言处理方面取得显著成就"
+        ],
+        "risk_assessment": "由于缺乏分布式系统和大数据处理经验，可能在处理大规模数据时面临挑战。",
+        "market_positioning": "建议专注于提升机器学习和大数据处理能力，以适应市场对数据科学家的高需求。"
+      },
+      "improvement_priorities": [
+        {
+          "skill": "机器学习算法",
+          "priority_score": 4,
+          "estimated_time": "2-4周",
+          "learning_path": [
+            "学习机器学习算法基础",
+            "实践机器学习算法项目",
+            "深入机器学习算法高级特性"
+          ]
+        },
+        {
+          "skill": "统计方法",
+          "priority_score": 4,
+          "estimated_time": "2-4周",
+          "learning_path": [
+            "学习统计方法基础",
+            "实践统计方法项目",
+            "深入统计方法高级特性"
+          ]
+        },
+        {
+          "skill": "分布式系统",
+          "priority_score": 4,
+          "estimated_time": "1-3个月",
+          "learning_path": [
+            "学习分布式系统基础",
+            "实践分布式系统项目",
+            "深入分布式系统高级特性"
+          ]
+        },
+        {
+          "skill": "大数据处理",
+          "priority_score": 4,
+          "estimated_time": "1-3个月",
+          "learning_path": [
+            "学习大数据处理基础",
+            "实践大数据处理项目",
+            "深入大数据处理高级特性"
+          ]
+        },
+        {
+          "skill": "A/B测试",
+          "priority_score": 4,
+          "estimated_time": "1-3个月",
+          "learning_path": [
+            "学习A/B测试基础",
+            "实践A/B测试项目",
+            "深入A/B测试高级特性"
+          ]
+        }
+      ],
+      "timeline_estimate": {
+        "total_weeks": 32,
+        "high_priority_weeks": 0,
+        "medium_priority_weeks": 32,
+        "estimated_completion_date": "2026-03-19",
+        "milestones": [
+          {
+            "skill": "机器学习算法",
+            "week": 4,
+            "description": "掌握机器学习算法技能",
+            "priority": "medium"
+          },
+          {
+            "skill": "统计方法",
+            "week": 8,
+            "description": "掌握统计方法技能",
+            "priority": "medium"
+          },
+          {
+            "skill": "分布式系统",
+            "week": 12,
+            "description": "掌握分布式系统技能",
+            "priority": "medium"
+          },
+          {
+            "skill": "大数据处理",
+            "week": 16,
+            "description": "掌握大数据处理技能",
+            "priority": "medium"
+          },
+          {
+            "skill": "A/B测试",
+            "week": 20,
+            "description": "掌握A/B测试技能",
+            "priority": "medium"
+          },
+          {
+            "skill": "实验设计",
+            "week": 24,
+            "description": "掌握实验设计技能",
+            "priority": "medium"
+          },
+          {
+            "skill": "编程规范",
+            "week": 28,
+            "description": "掌握编程规范技能",
+            "priority": "medium"
+          },
+          {
+            "skill": "设计模式",
+            "week": 32,
+            "description": "掌握设计模式技能",
+            "priority": "medium"
+          }
+        ]
+      },
+      "confidence_score": 50.0
+    },
+    "recommended_courses": [
+      {
+        "id": "course_1",
+        "name": "机器学习算法基础",
+        "platform": "Coursera",
+        "difficulty": "中级",
+        "duration": "4周",
+        "url": "https://example.com/course_ml",
+        "description": "学习机器学习的基础知识和算法"
+      },
+      {
+        "id": "course_2",
+        "name": "统计方法与应用",
+        "platform": "edX",
+        "difficulty": "中级",
+        "duration": "4周",
+        "url": "https://example.com/course_statistics",
+        "description": "掌握统计方法及其在数据分析中的应用"
+      },
+      {
+        "id": "course_3",
+        "name": "分布式系统入门",
+        "platform": "Udacity",
+        "difficulty": "中级",
+        "duration": "8周",
+        "url": "https://example.com/course_distributed_systems",
+        "description": "学习分布式系统的基本概念和设计"
+      },
+      {
+        "id": "course_4",
+        "name": "大数据处理与分析",
+        "platform": "DataCamp",
+        "difficulty": "中级",
+        "duration": "8周",
+        "url": "https://example.com/course_big_data",
+        "description": "掌握大数据处理的技术和工具"
+      },
+      {
+        "id": "course_5",
+        "name": "A/B测试与实验设计",
+        "platform": "LinkedIn Learning",
+        "difficulty": "中级",
+        "duration": "6周",
+        "url": "https://example.com/course_ab_testing",
+        "description": "学习A/B测试的设计与实施"
+      }
+    ],
+    "recommended_projects": [
+      {
+        "id": "project_1",
+        "name": "机器学习项目",
+        "tech_stack": [
+          "Python",
+          "scikit-learn",
+          "Pandas"
+        ],
+        "difficulty": "中级",
+        "duration": "4-6周",
+        "description": "开发一个机器学习模型来解决实际问题"
+      },
+      {
+        "id": "project_2",
+        "name": "大数据分析项目",
+        "tech_stack": [
+          "Hadoop",
+          "Spark",
+          "Python"
+        ],
+        "difficulty": "中级",
+        "duration": "6-8周",
+        "description": "处理和分析大规模数据集"
+      },
+      {
+        "id": "project_3",
+        "name": "分布式系统应用",
+        "tech_stack": [
+          "Kafka",
+          "Docker",
+          "Kubernetes"
+        ],
+        "difficulty": "中级",
+        "duration": "8周",
+        "description": "构建一个分布式系统应用"
+      }
+    ],
+    "recommended_practice": [
+      {
+        "id": "practice_1",
+        "type": "机器学习算法练习",
+        "frequency": "每周3次",
+        "focus": "算法实现与优化",
+        "description": "重点练习机器学习算法的实现和优化"
+      },
+      {
+        "id": "practice_2",
+        "type": "统计方法应用练习",
+        "frequency": "每周2次",
+        "focus": "数据分析与统计推断",
+        "description": "练习使用统计方法进行数据分析"
+      }
+    ],
+    "progress": {
+      "courses": {
+        "completed": 0,
+        "total": 5,
+        "percentage": 0.0
+      },
+      "projects": {
+        "completed": 0,
+        "total": 3,
+        "percentage": 0.0
+      },
+      "interviews": {
+        "completed": 0,
+        "target": 5,
+        "percentage": 0.0
+      }
+    },
+    "badges_earned": []
+  },
+  "plan_details": {
+    "id": "40c1eccf-2709-4729-ada4-53a264a96636",
+    "job_title": "数据科学家",
+    "skill_match_score": 11.1,
+    "experience_match_score": 55.0,
+    "gap_analysis": {
+      "skill_match": 11.1,
+      "experience_match": 55.0,
+      "overall_match": 33.1,
+      "gaps": [
+        {
+          "skill": "机器学习算法",
+          "similar_skill": "machine learning",
+          "similarity": 0.8,
+          "importance": "high",
+          "category": "machine_learning",
+          "status": "partial",
+          "priority": "medium"
+        },
+        {
+          "skill": "统计方法",
+          "similar_skill": "statistics",
+          "similarity": 0.8,
+          "importance": "high",
+          "category": "statistics",
+          "status": "partial",
+          "priority": "medium"
+        },
+        {
+          "skill": "分布式系统",
+          "importance": "medium",
+          "category": "system",
+          "status": "missing",
+          "priority": "medium"
+        },
+        {
+          "skill": "大数据处理",
+          "importance": "medium",
+          "category": "data_processing",
+          "status": "missing",
+          "priority": "medium"
+        },
+        {
+          "skill": "A/B测试",
+          "importance": "medium",
+          "category": "testing",
+          "status": "missing",
+          "priority": "medium"
+        },
+        {
+          "skill": "实验设计",
+          "importance": "medium",
+          "category": "design",
+          "status": "missing",
+          "priority": "medium"
+        },
+        {
+          "skill": "编程规范",
+          "importance": "medium",
+          "category": "programming",
+          "status": "missing",
+          "priority": "medium"
+        },
+        {
+          "skill": "设计模式",
+          "importance": "medium",
+          "category": "programming",
+          "status": "missing",
+          "priority": "medium"
+        }
+      ],
+      "strengths": [
+        {
+          "skill": "Python",
+          "importance": "high",
+          "category": "programming",
+          "status": "strong"
+        }
+      ],
+      "missing_skills": [
+        "分布式系统",
+        "大数据处理",
+        "A/B测试",
+        "实验设计",
+        "编程规范",
+        "设计模式"
+      ],
+      "jd_requirements": {
+        "required_skills": [
+          {
+            "skill": "Python",
+            "importance": "high",
+            "category": "programming"
+          },
+          {
+            "skill": "机器学习算法",
+            "importance": "high",
+            "category": "machine_learning"
+          },
+          {
+            "skill": "统计方法",
+            "importance": "high",
+            "category": "statistics"
+          },
+          {
+            "skill": "分布式系统",
+            "importance": "medium",
+            "category": "system"
+          },
+          {
+            "skill": "大数据处理",
+            "importance": "medium",
+            "category": "data_processing"
+          },
+          {
+            "skill": "A/B测试",
+            "importance": "medium",
+            "category": "testing"
+          },
+          {
+            "skill": "实验设计",
+            "importance": "medium",
+            "category": "design"
+          },
+          {
+            "skill": "编程规范",
+            "importance": "medium",
+            "category": "programming"
+          },
+          {
+            "skill": "设计模式",
+            "importance": "medium",
+            "category": "programming"
+          }
+        ],
+        "preferred_skills": [
+          {
+            "skill": "自然语言处理",
+            "importance": "medium",
+            "category": "natural_language_processing"
+          }
+        ],
+        "experience_requirements": [
+          {
+            "type": "技术经验",
+            "years": 3,
+            "description": "Python开发经验"
+          }
+        ]
+      },
+      "detailed_analysis": {
+        "core_competencies": [
+          "Python",
+          "Machine Learning"
+        ],
+        "main_gaps": [
+          "分布式系统",
+          "大数据处理",
+          "A/B测试",
+          "实验设计",
+          "编程规范",
+          "设计模式"
+        ],
+        "short_term_goals": [
+          "提升机器学习算法的理解和应用能力",
+          "学习分布式系统的基础知识"
+        ],
+        "medium_term_goals": [
+          "掌握大数据处理技术",
+          "参与A/B测试和实验设计的项目"
+        ],
+        "long_term_goals": [
+          "成为数据科学领域的专家",
+          "在机器学习和自然语言处理方面取得显著成就"
+        ],
+        "risk_assessment": "由于缺乏分布式系统和大数据处理经验，可能在处理大规模数据时面临挑战。",
+        "market_positioning": "建议专注于提升机器学习和大数据处理能力，以适应市场对数据科学家的高需求。"
+      },
+      "improvement_priorities": [
+        {
+          "skill": "机器学习算法",
+          "priority_score": 4,
+          "estimated_time": "2-4周",
+          "learning_path": [
+            "学习机器学习算法基础",
+            "实践机器学习算法项目",
+            "深入机器学习算法高级特性"
+          ]
+        },
+        {
+          "skill": "统计方法",
+          "priority_score": 4,
+          "estimated_time": "2-4周",
+          "learning_path": [
+            "学习统计方法基础",
+            "实践统计方法项目",
+            "深入统计方法高级特性"
+          ]
+        },
+        {
+          "skill": "分布式系统",
+          "priority_score": 4,
+          "estimated_time": "1-3个月",
+          "learning_path": [
+            "学习分布式系统基础",
+            "实践分布式系统项目",
+            "深入分布式系统高级特性"
+          ]
+        },
+        {
+          "skill": "大数据处理",
+          "priority_score": 4,
+          "estimated_time": "1-3个月",
+          "learning_path": [
+            "学习大数据处理基础",
+            "实践大数据处理项目",
+            "深入大数据处理高级特性"
+          ]
+        },
+        {
+          "skill": "A/B测试",
+          "priority_score": 4,
+          "estimated_time": "1-3个月",
+          "learning_path": [
+            "学习A/B测试基础",
+            "实践A/B测试项目",
+            "深入A/B测试高级特性"
+          ]
+        }
+      ],
+      "timeline_estimate": {
+        "total_weeks": 32,
+        "high_priority_weeks": 0,
+        "medium_priority_weeks": 32,
+        "estimated_completion_date": "2026-03-19",
+        "milestones": [
+          {
+            "skill": "机器学习算法",
+            "week": 4,
+            "description": "掌握机器学习算法技能",
+            "priority": "medium"
+          },
+          {
+            "skill": "统计方法",
+            "week": 8,
+            "description": "掌握统计方法技能",
+            "priority": "medium"
+          },
+          {
+            "skill": "分布式系统",
+            "week": 12,
+            "description": "掌握分布式系统技能",
+            "priority": "medium"
+          },
+          {
+            "skill": "大数据处理",
+            "week": 16,
+            "description": "掌握大数据处理技能",
+            "priority": "medium"
+          },
+          {
+            "skill": "A/B测试",
+            "week": 20,
+            "description": "掌握A/B测试技能",
+            "priority": "medium"
+          },
+          {
+            "skill": "实验设计",
+            "week": 24,
+            "description": "掌握实验设计技能",
+            "priority": "medium"
+          },
+          {
+            "skill": "编程规范",
+            "week": 28,
+            "description": "掌握编程规范技能",
+            "priority": "medium"
+          },
+          {
+            "skill": "设计模式",
+            "week": 32,
+            "description": "掌握设计模式技能",
+            "priority": "medium"
+          }
+        ]
+      },
+      "confidence_score": 50.0
+    },
+    "recommended_courses": [
+      {
+        "id": "course_1",
+        "name": "机器学习算法基础",
+        "platform": "Coursera",
+        "difficulty": "中级",
+        "duration": "4周",
+        "url": "https://example.com/course_ml",
+        "description": "学习机器学习的基础知识和算法"
+      },
+      {
+        "id": "course_2",
+        "name": "统计方法与应用",
+        "platform": "edX",
+        "difficulty": "中级",
+        "duration": "4周",
+        "url": "https://example.com/course_statistics",
+        "description": "掌握统计方法及其在数据分析中的应用"
+      },
+      {
+        "id": "course_3",
+        "name": "分布式系统入门",
+        "platform": "Udacity",
+        "difficulty": "中级",
+        "duration": "8周",
+        "url": "https://example.com/course_distributed_systems",
+        "description": "学习分布式系统的基本概念和设计"
+      },
+      {
+        "id": "course_4",
+        "name": "大数据处理与分析",
+        "platform": "DataCamp",
+        "difficulty": "中级",
+        "duration": "8周",
+        "url": "https://example.com/course_big_data",
+        "description": "掌握大数据处理的技术和工具"
+      },
+      {
+        "id": "course_5",
+        "name": "A/B测试与实验设计",
+        "platform": "LinkedIn Learning",
+        "difficulty": "中级",
+        "duration": "6周",
+        "url": "https://example.com/course_ab_testing",
+        "description": "学习A/B测试的设计与实施"
+      }
+    ],
+    "recommended_projects": [
+      {
+        "id": "project_1",
+        "name": "机器学习项目",
+        "tech_stack": [
+          "Python",
+          "scikit-learn",
+          "Pandas"
+        ],
+        "difficulty": "中级",
+        "duration": "4-6周",
+        "description": "开发一个机器学习模型来解决实际问题"
+      },
+      {
+        "id": "project_2",
+        "name": "大数据分析项目",
+        "tech_stack": [
+          "Hadoop",
+          "Spark",
+          "Python"
+        ],
+        "difficulty": "中级",
+        "duration": "6-8周",
+        "description": "处理和分析大规模数据集"
+      },
+      {
+        "id": "project_3",
+        "name": "分布式系统应用",
+        "tech_stack": [
+          "Kafka",
+          "Docker",
+          "Kubernetes"
+        ],
+        "difficulty": "中级",
+        "duration": "8周",
+        "description": "构建一个分布式系统应用"
+      }
+    ],
+    "recommended_practice": [
+      {
+        "id": "practice_1",
+        "type": "机器学习算法练习",
+        "frequency": "每周3次",
+        "focus": "算法实现与优化",
+        "description": "重点练习机器学习算法的实现和优化"
+      },
+      {
+        "id": "practice_2",
+        "type": "统计方法应用练习",
+        "frequency": "每周2次",
+        "focus": "数据分析与统计推断",
+        "description": "练习使用统计方法进行数据分析"
+      }
+    ],
+    "progress": {
+      "courses": {
+        "completed": 0,
+        "total": 5,
+        "percentage": 0.0
+      },
+      "projects": {
+        "completed": 0,
+        "total": 3,
+        "percentage": 0.0
+      },
+      "interviews": {
+        "completed": 0,
+        "target": 5,
+        "percentage": 0.0
+      }
+    },
+    "badges_earned": []
+  },
+  "updated_skills": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "scikit-learn",
+    "Apache Spark",
+    "Kafka",
+    "Hadoop",
+    "Docker",
+    "Kubernetes",
+    "AWS"
+  ],
+  "updated_experience": 4,
+  "updated_analysis": {
+    "skill_match": 11.1,
+    "experience_match": 80.0,
+    "overall_match": 45.6,
+    "gaps": [
+      {
+        "skill": "机器学习算法",
+        "similar_skill": "tensorflow",
+        "similarity": 0.8,
+        "importance": "high",
+        "category": "machine_learning",
+        "status": "partial",
+        "priority": "medium"
+      },
+      {
+        "skill": "统计方法",
+        "importance": "high",
+        "category": "statistics",
+        "status": "missing",
+        "priority": "high"
+      },
+      {
+        "skill": "分布式系统",
+        "similar_skill": "distributed",
+        "similarity": 0.8,
+        "importance": "medium",
+        "category": "system",
+        "status": "partial",
+        "priority": "low"
+      },
+      {
+        "skill": "大数据处理",
+        "similar_skill": "kafka",
+        "similarity": 0.8,
+        "importance": "medium",
+        "category": "data_processing",
+        "status": "partial",
+        "priority": "low"
+      },
+      {
+        "skill": "A/B测试",
+        "importance": "medium",
+        "category": "testing",
+        "status": "missing",
+        "priority": "medium"
+      },
+      {
+        "skill": "实验设计",
+        "importance": "medium",
+        "category": "design",
+        "status": "missing",
+        "priority": "medium"
+      },
+      {
+        "skill": "编程规范",
+        "importance": "medium",
+        "category": "programming",
+        "status": "missing",
+        "priority": "medium"
+      },
+      {
+        "skill": "设计模式",
+        "importance": "medium",
+        "category": "programming",
+        "status": "missing",
+        "priority": "medium"
+      }
+    ],
+    "strengths": [
+      {
+        "skill": "Python",
+        "importance": "high",
+        "category": "programming",
+        "status": "strong"
+      }
+    ],
+    "missing_skills": [
+      "统计方法",
+      "A/B测试",
+      "实验设计",
+      "编程规范",
+      "设计模式"
+    ],
+    "jd_requirements": {
+      "required_skills": [
+        {
+          "skill": "Python",
+          "importance": "high",
+          "category": "programming"
+        },
+        {
+          "skill": "机器学习算法",
+          "importance": "high",
+          "category": "machine_learning"
+        },
+        {
+          "skill": "统计方法",
+          "importance": "high",
+          "category": "statistics"
+        },
+        {
+          "skill": "分布式系统",
+          "importance": "medium",
+          "category": "system"
+        },
+        {
+          "skill": "大数据处理",
+          "importance": "medium",
+          "category": "data_processing"
+        },
+        {
+          "skill": "A/B测试",
+          "importance": "medium",
+          "category": "testing"
+        },
+        {
+          "skill": "实验设计",
+          "importance": "medium",
+          "category": "design"
+        },
+        {
+          "skill": "编程规范",
+          "importance": "medium",
+          "category": "programming"
+        },
+        {
+          "skill": "设计模式",
+          "importance": "medium",
+          "category": "programming"
+        }
+      ],
+      "preferred_skills": [
+        {
+          "skill": "自然语言处理",
+          "importance": "low",
+          "category": "machine_learning"
+        }
+      ],
+      "experience_requirements": [
+        {
+          "type": "技术经验",
+          "years": 3,
+          "description": "Python开发经验"
+        }
+      ]
+    },
+    "detailed_analysis": {
+      "core_competencies": [
+        "Python",
+        "机器学习算法"
+      ],
+      "main_gaps": [
+        "统计方法",
+        "A/B测试",
+        "实验设计",
+        "编程规范",
+        "设计模式"
+      ],
+      "short_term_goals": [
+        "提升统计方法的理解和应用能力",
+        "学习A/B测试的基本原理和实践"
+      ],
+      "medium_term_goals": [
+        "掌握实验设计的原则和方法",
+        "提高编程规范和设计模式的应用能力"
+      ],
+      "long_term_goals": [
+        "深入研究机器学习算法的最新进展",
+        "扩展自然语言处理的知识和技能"
+      ],
+      "risk_assessment": "由于缺乏关键的统计方法和实验设计技能，可能会影响数据分析的准确性和模型的有效性。",
+      "market_positioning": "建议在数据科学领域中，专注于提升统计分析和实验设计能力，以增强市场竞争力。"
+    },
+    "improvement_priorities": [
+      {
+        "skill": "统计方法",
+        "priority_score": 5,
+        "estimated_time": "1-3个月",
+        "learning_path": [
+          "学习统计方法基础",
+          "实践统计方法项目",
+          "深入统计方法高级特性"
+        ]
+      },
+      {
+        "skill": "机器学习算法",
+        "priority_score": 4,
+        "estimated_time": "2-4周",
+        "learning_path": [
+          "学习机器学习算法基础",
+          "实践机器学习算法项目",
+          "深入机器学习算法高级特性"
+        ]
+      },
+      {
+        "skill": "A/B测试",
+        "priority_score": 4,
+        "estimated_time": "1-3个月",
+        "learning_path": [
+          "学习A/B测试基础",
+          "实践A/B测试项目",
+          "深入A/B测试高级特性"
+        ]
+      },
+      {
+        "skill": "实验设计",
+        "priority_score": 4,
+        "estimated_time": "1-3个月",
+        "learning_path": [
+          "学习实验设计基础",
+          "实践实验设计项目",
+          "深入实验设计高级特性"
+        ]
+      },
+      {
+        "skill": "编程规范",
+        "priority_score": 4,
+        "estimated_time": "1-3个月",
+        "learning_path": [
+          "学习编程规范基础语法",
+          "完成编程规范小项目",
+          "参与编程规范开源项目"
+        ]
+      }
+    ],
+    "timeline_estimate": {
+      "total_weeks": 28,
+      "high_priority_weeks": 8,
+      "medium_priority_weeks": 20,
+      "estimated_completion_date": "2026-02-19",
+      "milestones": [
+        {
+          "skill": "机器学习算法",
+          "week": 4,
+          "description": "掌握机器学习算法技能",
+          "priority": "medium"
+        },
+        {
+          "skill": "统计方法",
+          "week": 12,
+          "description": "掌握统计方法技能",
+          "priority": "high"
+        },
+        {
+          "skill": "分布式系统",
+          "week": 16,
+          "description": "掌握分布式系统技能",
+          "priority": "low"
+        },
+        {
+          "skill": "大数据处理",
+          "week": 20,
+          "description": "掌握大数据处理技能",
+          "priority": "low"
+        },
+        {
+          "skill": "A/B测试",
+          "week": 24,
+          "description": "掌握A/B测试技能",
+          "priority": "medium"
+        },
+        {
+          "skill": "实验设计",
+          "week": 28,
+          "description": "掌握实验设计技能",
+          "priority": "medium"
+        },
+        {
+          "skill": "编程规范",
+          "week": 32,
+          "description": "掌握编程规范技能",
+          "priority": "medium"
+        },
+        {
+          "skill": "设计模式",
+          "week": 36,
+          "description": "掌握设计模式技能",
+          "priority": "medium"
+        }
+      ]
+    },
+    "confidence_score": 50.0
+  },
+  "calculation_details": {
+    "total_skills": 9,
+    "matched_skills": 1,
+    "skill_percentage": 11.11111111111111,
+    "experience_years_user": 4,
+    "experience_years_required": 3
+  }
+}
