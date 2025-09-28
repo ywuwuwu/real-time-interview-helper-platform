@@ -55,13 +55,7 @@ interview-helper/
 Before running the backend, please create a `.env` file in the `backend` directory with the following content:
 
 ```env
-# .env (place this in the backend/ folder)
-WHISPER_API_KEY=your-whisper-api-key
-OPENAI_API_KEY=your-openai-api-key
 DEFAULT_ASR_BACKEND=whisper
 ASR_MODEL=whisper-1
 LLM_MODEL=gpt-4o-mini
 ```
-
-> ⚠️ **Do NOT commit your real API keys to git!**  
-> Each developer should create their own `.env` file locally.
